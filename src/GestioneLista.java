@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
-
+// Gestione Lista di Interi
 public class GestioneLista {
 	public static void main(String[] args) throws IOException {
 		BufferedReader stdin = new BufferedReader(new InputStreamReader(System.in));
